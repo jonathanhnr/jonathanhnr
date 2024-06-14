@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanhnr&show_icons=true&locale=en&layout=compact" alt="jonathanhnr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanhnr&show_icons=true&locale=en" alt="jonathanhnr" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jonathanhnr&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
